@@ -1,6 +1,6 @@
 
 /*******************************************************************************
- * CLASS ID: CSC/CIS-17A-43562/43480
+ *                       CLASS ID: CSC/CIS-17A-43562/43480
  *
  * STUDENT:    
  * ASSIGNMENT: 
@@ -9,7 +9,7 @@
  */
 
 /*******************************************************************************
- *                 Library References 
+ *                              Library References 
 */
 #include <iostream>
 #include <iomanip>
@@ -17,16 +17,14 @@
 #include <cmath>
 #include <cstdlib>
 
-using namespace std;    
-
-/*
-* Function name: 
-* Description:   
-* Parameters:   
-*/
+using namespace std; 
 
 /*******************************************************************************
- * Main Program
+ *                              Function Prototypes
+ */
+
+/*******************************************************************************
+ *                                  Main Program
  * Description: 
 */
 int main() {
@@ -36,3 +34,9 @@ int main() {
   cout << "\nEnd of program.\n" << endl;
   return 0;
 }
+
+/*
+* Function name: 
+* Description:   
+* Parameters:   
+*/
